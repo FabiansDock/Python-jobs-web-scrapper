@@ -1,0 +1,33 @@
+Company Name: Ivan Infotech Pvt. Ltd. 
+Skills Required: rest  ,  python  ,  security  ,  debugging 
+Post Age: Posted few days ago 
+
+Company Name: east india securities ltd. 
+Skills Required: python  ,  hadoop  ,  machine learning 
+Post Age: Posted few days ago 
+
+Company Name: PES HR SERVICES
+     (More Jobs) 
+Skills Required: Python  ,  Fast Api  ,  Mongo DB 
+Post Age: Posted few days ago 
+
+Company Name: magnarus technologies private limited 
+Skills Required: image processing  ,  python  ,  c  ,  c   programming  ,  operating system  ,  team player  ,  database  ,  mysql  ,  unix 
+Post Age: Posted 1 day ago 
+
+Company Name: AxisTechnolabs 
+Skills Required: python  ,  css  ,  user interaction  ,  bootstrap  ,  openerp  ,  database  ,  xml  ,  oops  ,  html 
+Post Age: Posted few days ago 
+
+Company Name: WBC Software Lab 
+Skills Required: python  ,  git  ,  rest api  ,  linux  ,  mobile  ,  mongodb  ,  docker 
+Post Age: Posted few days ago 
+
+Company Name: NuageBiz.Tech 
+Skills Required: python  ,  mobile  ,  team player  ,  svn  ,  security  ,  git  ,  software engineering 
+Post Age: Posted few days ago 
+
+Company Name: Fluper Limited 
+Skills Required: c#  ,  python  ,  virtual reality  ,  mobile  ,  augmented reality  ,  opencv 
+Post Age: Posted few days ago 
+
